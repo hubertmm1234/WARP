@@ -10,3 +10,5 @@ dotnet run
 Autor: Student
 Zespół: Warsztat Programisty
  ## Uruchomienie z komendą dotnet run.
+## Konflikt?
+nie
