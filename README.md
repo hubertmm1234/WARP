@@ -9,3 +9,4 @@ dotnet run
 ## Kontakt
 Autor: Student
 Zespół: Warsztat Programisty
+ ## Uruchomienie z komendą dotnet run.
